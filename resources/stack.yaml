@@ -146,3 +146,4 @@ Resources:
             Resource:
               - !Sub arn:aws:s3:::${ShowsBucket}
               - !Sub arn:aws:s3:::${ShowsBucket}/*
+              
